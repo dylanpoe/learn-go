@@ -1,3 +1,5 @@
+package RANDOM
+
 var letters = []rune("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ")
 
 func RandomString(length int) string {
